@@ -1,4 +1,4 @@
-# 📂 Project Demo: 🎥 Video & 🖼️ Screenshots
+# 📂 Project Demo: Video & Screenshots
 
 This folder contains visual documentation of the **Online Food Delivery Application** project — including a complete execution demo video and supporting screenshots.
 
