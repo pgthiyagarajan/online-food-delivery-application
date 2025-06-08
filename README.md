@@ -1,3 +1,4 @@
+
 # 🍽️ Online Food Delivery Application
 
 An end-to-end web application designed to provide users with a seamless online food ordering experience — from discovering restaurants to placing orders, all through an intuitive and visually engaging interface.
@@ -13,16 +14,22 @@ The project is structured into **7 interconnected modules**, each providing a cr
 - Each card includes the restaurant’s image, name, address, cuisine type, estimated delivery time, and ratings.
 - A responsive navbar sits at the top with a logo, functional search bar, and sign-in/cart buttons.
 
+![Home Page Screenshot](FOOD%20APP%20PROJECT/project-execution-images&video/home.png)
+
 ### 2. Menu Module
 - Lists food items belonging to a selected restaurant.
 - Each food card includes an image, name, description, price per quantity, rating, and an "Add Item" button.
 - Maintains consistent layout and navigation from the homepage.
+
+![Menu Page Screenshot](FOOD%20APP%20PROJECT/project-execution-images&video/menu.png)
 
 ### 3. Sign-In Module
 - Welcomes users with a centered login card.
 - Validates credentials with a 3-attempt limit.
 - After 3 failed attempts, users are asked to contact the admin.
 - Includes a link to register if the user does not have an account.
+
+![Sign-In Page Screenshot](FOOD%20APP%20PROJECT/project-execution-images&video/login.png)
 
 ### 4. User Registration Module
 - Provides a form for new users to sign up by entering:
@@ -34,6 +41,8 @@ The project is structured into **7 interconnected modules**, each providing a cr
   - Role (selected from a dropdown)
 - On submission, user details are stored in the MySQL database.
 
+![User Registration Screenshot](FOOD%20APP%20PROJECT/project-execution-images&video/user-registration.png)
+
 ### 5. Cart Module
 - Accessible only to logged-in users.
 - If cart is empty, prompts users to add items.
@@ -42,14 +51,20 @@ The project is structured into **7 interconnected modules**, each providing a cr
 - Features quantity adjustment (+/-), item-wise total, and grand total.
 - Includes a "Proceed to Checkout" button.
 
+![Cart Screenshot](FOOD%20APP%20PROJECT/project-execution-images&video/cart.png)
+
 ### 6. Checkout Module
 - Displays the user's address.
 - Lets the user select a payment method from a dropdown.
 - Clicking "Place Order" confirms the purchase and proceeds to the final screen.
 
+![Checkout Screenshot](FOOD%20APP%20PROJECT/project-execution-images&video/checkout.png)
+
 ### 7. Order Confirmation Module
 - Thanks the user for placing the order.
 - Includes an animated delivery agent on a scooter moving infinitely across the screen.
+
+![Order Confirmation Screenshot](FOOD%20APP%20PROJECT/project-execution-images&video/order-confirmation.png)
 
 ---
 
@@ -61,15 +76,15 @@ This application is built for the **general public** — anyone looking to brows
 
 ## 🛠 Tech Stack
 
-**Frontend:**
+💻 **Frontend:**
 - HTML
 - CSS
 
-**Backend:**
+🧠 **Backend:**
 - Java
 - JSP
 
-**Database:**
+🗄️ **Database:**
 - MySQL
 
 ---
