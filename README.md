@@ -75,16 +75,11 @@ This application is built for the **general public** — anyone looking to brows
 
 ## 🛠 Tech Stack
 
-💻 **Frontend:**
-- HTML
-- CSS
-
-🧠 **Backend:**
-- Java
-- JSP
-
-🗄️ **Database:**
-- MySQL
+| Layer        | Technology                                                                                                                                     | Description                                |
+|--------------|------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+| 💻 Frontend  | ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&logoSize=auto&labelColor=black&color=%23E34F26) &nbsp; ![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=CSS&logoColor=%23663399&logoSize=auto&labelColor=black&color=%23663399) | Structure and styling of UI                |
+| 🧠 Backend   | ![Static Badge](https://img.shields.io/badge/JAVA-%235382a1?style=for-the-badge&labelColor=black&color=%235382a1) &nbsp; ![JSP Badge](https://img.shields.io/badge/JSP-%23007396?style=for-the-badge&logo=java&logoColor=white)       | Server-side logic and dynamic content      |
+| 🗄️ Database | ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=%234479A1&logoSize=AUTO&labelColor=black&color=%234479A1)                                        | Data storage and management                |
 
 ---
 
