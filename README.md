@@ -1,6 +1,6 @@
 <h1 align="center">🍽️ Online Food Delivery Application</h1>
 
-An end-to-end web application designed to provide users with a seamless online food ordering experience — from discovering restaurants to placing orders, all through an intuitive and visually engaging interface.
+<p align="center">An end-to-end web application designed to provide users with a seamless online food ordering experience — from discovering restaurants to placing orders, all through an intuitive and visually engaging interface.</p>
 
 ---
 
